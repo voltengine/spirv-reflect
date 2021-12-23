@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.fsh": "glsl",
+		"*.vsh": "glsl",
+		"stdbool.h": "c"
+	}
+}

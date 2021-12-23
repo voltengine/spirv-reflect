@@ -1,0 +1,9 @@
+{
+	"dependencies": {},
+	"description": "SPIRV-Reflect is a lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.",
+	"git": "https://github.com/voltengine/spirv-reflect.git",
+	"id": "voltengine/spirv-reflect",
+	"keywords": [],
+	"license": "Apache-2.0",
+	"version": "1.0.0+snapshot.173ae4d9bbcc8fd0307bea9f126cb50619ceff23"
+}
